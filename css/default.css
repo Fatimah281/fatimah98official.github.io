@@ -87,6 +87,7 @@ pre {
    word-wrap: break-word;
 }
 
+blockquote, q { quotes: &#8220 &#8220; }
 
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -463,7 +464,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #11ABB0;
+   background: #b00357;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
